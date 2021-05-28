@@ -89,8 +89,11 @@ h5 {
   }
   top: 0;
   left: 0;
+  height: 100px;
   width: 100%;
-  height: @topheight;
+  @media screen and (min-width: 800px) {
+    height: @topheight;
+  }
   background: @cmain;
   color: @clight;
   .header {
@@ -195,7 +198,10 @@ ul.languages {
 .container {
   background-color: @white;
   padding: 5mm;
-  top: @topheight;
+  top: 100px;
+  @media screen and (min-width: 800px) {
+    top: @topheight;
+  }
   hr {
     color: @cmain;
     background-color: @cmain;
