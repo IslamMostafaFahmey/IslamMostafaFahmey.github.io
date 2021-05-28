@@ -10,6 +10,7 @@
 @topheight: 30mm;
 @pageheight: 297mm;
 @pagewidth: 210mm;
+@responsivetopheight: 8rem;
 
 * {
   background-repeat: no-repeat;
@@ -89,7 +90,7 @@ h5 {
   }
   top: 0;
   left: 0;
-  height: 100px;
+  height: @responsivetopheight;
   width: 100%;
   @media screen and (min-width: 800px) {
     height: @topheight;
@@ -100,7 +101,7 @@ h5 {
     float: left;
   }
   .header.left {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     width: 39%;
     padding: 8mm 5mm 5mm 5mm;
     @media screen and (min-width: 800px) {
@@ -118,7 +119,7 @@ h5 {
     position: relative;
   }
   .header.right {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     width: 60%;
     padding: 6mm 0 5mm 5mm;
     @media screen and (min-width: 800px) {
@@ -198,7 +199,7 @@ ul.languages {
 .container {
   background-color: @white;
   padding: 5mm;
-  top: 100px;
+  top: @responsivetopheight;
   @media screen and (min-width: 800px) {
     top: @topheight;
   }
