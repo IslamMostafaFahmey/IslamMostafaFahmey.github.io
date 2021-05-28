@@ -146,7 +146,7 @@ function buildContent(cv) {
     if (halfCounter % 2 == 0) {
       hr = "<hr>";
     }
-    console.log(halfCounter);
+    //console.log(halfCounter);
     rv.push(`</div>${hr}`);
   }
 
@@ -160,7 +160,7 @@ function buildContent(cv) {
 
 readJson(CV + ".json", function (text) {
   var cv = JSON.parse(text);
-  console.log(cv);
+  //console.log(cv);
   document.body.innerHTML += buildTop(cv);
   document.body.innerHTML += buildContent(cv);
   $(".skill ul").hide();
