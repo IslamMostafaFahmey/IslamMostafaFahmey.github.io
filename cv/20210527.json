@@ -4,15 +4,14 @@
   "organization1": [
     "work experience",
     "awards and honors",
-    "education",
-    "graduation project",
     "programming languages",
     "frameworks and libraries",
     "hardware",
     "database systems",
     "other technologies and shells",
     "languages",
-    "student activities",
+    "education",
+    "graduation project",
     "soft skills",
     "interests"
   ],
@@ -27,8 +26,8 @@
     "mail": "islam.mostafa.fahmey@gmail.com",
     "phone": "+201026490646",
     "website": "",
-    "github": "https://github.com/IslamMostafaFahmey",
-    "linkedin": "https://www.linkedin.com/in/islam-mostafa-fahmey"
+    "github": "https://github.com/I-Mostafa",
+    "linkedin": "https://www.linkedin.com/in/i-mostafa"
   },
   "pitch": "Quick learning MERN stack developer with a strong background in software engineering concepts. Once an educator, very keen on giving advice to colleagues and helping others. Appreciate a progressive forward-thinking diverse company culture where I can employ my skills to help others and learn more. Won first place in the 2017 Landmine Free international mine-sweeping competition, designing code for an autonomous mine detecting robot. Able to write scalable well documented code to build solid applications and websites. Well versed in anything from writing code for large-scale cross-platform applications to designing small-scale IoT solutions.",
   "work experience": {
@@ -85,7 +84,7 @@
           "Engineered and administered a network system, containing all of server machines, routers, and end devices for a total of 38 company branches.",
           "Monitored and processed the hardware and software purchases/deals for the company.",
           "Was responsible for various R&D and technical consultation tasks, and helped improve the network architecture and server performance to boost productivity.",
-          "Built a proprietary accounting application for inventory management, budget calculation, sales, as well as checking for employee attendance and calculating salaries.<br><br><br><br><br>"
+          "Built a proprietary accounting application for inventory management, budget calculation, sales, as well as checking for employee attendance and calculating salaries."
         ]
       }
     ],
