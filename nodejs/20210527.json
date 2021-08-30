@@ -84,7 +84,7 @@
         "company": "Alpha-tech",
         "date": ["Mar 2018", "Jan 2020"],
         "bullets": [
-          "Developed many web applications depends on nodejs, express, mongodbb, postgresql.",
+          "Developed many web applications depends on nodejs, express, MongoDB, postgresql.",
           "Built a real-time chat system and a feed system on top of Socket.io.",
           "Employed JWT-based authentication for the various microservices.",
           "build a full integration with social media auth with passportjs."
