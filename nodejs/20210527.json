@@ -6,20 +6,14 @@
     "awards and honors",
     "programming languages",
     "frameworks and libraries",
-    "hardware",
     "database systems",
-    "other technologies and shells",
     "languages",
+    "other technologies and shells",
     "education",
-    "graduation project",
     "soft skills",
     "interests"
   ],
-  "organization2": [
-    "web development",
-    "embedded systems",
-    "education and tutoring"
-  ],
+  "organization2": ["web development"],
   "name": "Islam Mostafa",
   "title": "Software Engineer",
   "contact": {
@@ -45,15 +39,15 @@
       {
         "title": "MERN Stack Software Engineer",
         "company": "Interwebiz",
-        "date": ["Apr 2019", "persent"],
+        "date": ["Apr 2019", "Persent"],
         "bullets": [
           "Developed a microservice-based web application for freelancing platform.",
           "Built an API in Express.js and MongoDB, and modified a pre-existing React.js front-end to interact with it.",
           "Built a real-time chat system and a feed system on top of Socket.io.",
-          "Employed JWT-based authentication for the various microservices.",
-          "Deployed the application using existing production Javascript technologies."
+          "Employed JWT-based authentication for the various microservices."
         ]
       },
+
       {
         "title": "Full Stack Web Developer",
         "company": "Saudiyor",
@@ -66,15 +60,6 @@
         ]
       },
       {
-        "title": "Full Stack Web Developer",
-        "company": "Sanabel",
-        "date": ["Jan 2019", "Jun 2019"],
-        "bullets": [
-          "Built and scaled a network control software using Node.js.",
-          "Built an IoT system using the ESP8266 for specific networking purposes."
-        ]
-      },
-      {
         "title": "IT Administrator",
         "company": "Albaraka Labs Foundation",
         "date": ["Nov 2019", "Present"],
@@ -83,6 +68,15 @@
           "Monitored and processed the hardware and software purchases/deals for the company.",
           "Was responsible for various R&D and technical consultation tasks, and helped improve the network architecture and server performance to boost productivity.",
           "Built a proprietary accounting application for inventory management, budget calculation, sales, as well as checking for employee attendance and calculating salaries."
+        ]
+      },
+      {
+        "title": "Full Stack Web Developer",
+        "company": "Sanabel",
+        "date": ["Jan 2019", "Jun 2019"],
+        "bullets": [
+          "Built and scaled a network control software using Node.js.",
+          "Built an IoT system using the ESP8266 for specific networking purposes."
         ]
       },
       {
@@ -169,7 +163,7 @@
     true,
     {
       "title": "Javascript",
-      "level": "Excellent"
+      "level": "Very Good"
     },
     {
       "title": "Typescript",
@@ -177,15 +171,15 @@
     },
     {
       "title": "Node.js",
-      "level": "Excellent"
-    },
-    {
-      "title": "C#",
       "level": "Very Good"
     },
     {
+      "title": "C#",
+      "level": "Good"
+    },
+    {
       "title": "C",
-      "level": "Excellent"
+      "level": "Very Good"
     },
     {
       "title": "C++",
@@ -208,7 +202,7 @@
     true,
     {
       "title": "Express.js",
-      "level": "Excellent"
+      "level": "Very Good"
     },
     {
       "title": "Socket.IO",
@@ -216,11 +210,11 @@
     },
     {
       "title": "EJS",
-      "level": "Excellent"
+      "level": "Very Good"
     },
     {
       "title": "OpenCV",
-      "level": "Very Good"
+      "level": "Good"
     },
     {
       "title": "jQuery",
@@ -247,11 +241,15 @@
     true,
     {
       "title": "MongoDB and Mongoose",
-      "level": "Excellent"
+      "level": "Very Good"
     },
     {
       "title": "MySQL",
-      "level": "Very Good"
+      "level": "Good"
+    },
+    {
+      "title": "Postgresql",
+      "level": "Good"
     },
     {
       "title": "SQL",
@@ -274,11 +272,11 @@
     },
     {
       "title": "Raspberry Pi",
-      "level": "Excellent"
+      "level": "Very Good"
     },
     {
       "title": "Arduino",
-      "level": "Excellent"
+      "level": "Very Good"
     },
     {
       "title": "STM32",
@@ -293,15 +291,15 @@
     },
     {
       "title": "Git and Version Control",
-      "level": "Excellent"
+      "level": "Very Good"
     },
     {
       "title": "OOP",
-      "level": "Excellent"
+      "level": "Very Good"
     },
     {
       "title": "Restful API",
-      "level": "Excellent"
+      "level": "Very Good"
     },
     {
       "title": "Windows Shell",
@@ -327,8 +325,7 @@
         "Built a cross-platform end-to-end encryption system in C++ for general purpose hardware usage, writing personal implementations of all of AES, ECDSA, Camellia, ECDH, and Elgamal algorithms.",
         "Studied communication and computer engineering.",
         "Profound understanding of Computer Architecture, Computer Organization, Digital Logic Circuit Design, <br>and Computer Software.",
-        "Distinguished grades (95%+) in Microprocessor, Operating Systems, Signals and Systems, Network, Computer Organization, and Digital Communication.",
-        "Was a member of the student union, cultural committee."
+        "Distinguished grades (95%+) in Microprocessor, Operating Systems, Signals and Systems, Network, Computer Organization, and Digital Communication."
       ]
     }
   ],
