@@ -45,13 +45,23 @@
       {
         "title": "MERN Stack Software Engineer",
         "company": "Interwebiz",
-        "date": ["Apr 2019", "Present"],
+        "date": ["Jan 2020", "Present"],
         "bullets": [
           "Developed a microservice-based web application for freelancing platform.",
           "Built an API in Express.js and MongoDB, and modified a pre-existing React.js front-end to interact with it.",
           "Built a real-time chat system and a feed system on top of Socket.io.",
+          "Employed JWT-based authentication for the various microservices."
+        ]
+      },
+      {
+        "title": "Senior Node.js Developer",
+        "company": "Alpha-tech",
+        "date": ["Mar 2019", "Jan 2022"],
+        "bullets": [
+          "Developed many web applications depends on nodejs, express, MongoDB, postgresql.",
+          "Built a real-time chat system and a feed system on top of Socket.io.",
           "Employed JWT-based authentication for the various microservices.",
-          "Deployed the application using existing production Javascript technologies."
+          "build a full integration with social media auth with passportjs."
         ]
       },
       {
@@ -66,18 +76,9 @@
         ]
       },
       {
-        "title": "Full Stack Web Developer",
-        "company": "Sanabel",
-        "date": ["Jan 2019", "Jun 2019"],
-        "bullets": [
-          "Built and scaled a network control software using Node.js.",
-          "Built an IoT system using the ESP8266 for specific networking purposes."
-        ]
-      },
-      {
         "title": "IT Administrator",
         "company": "Albaraka Labs Foundation",
-        "date": ["Nov 2019", "Present"],
+        "date": ["Nov 2019", "Dec 2021"],
         "bullets": [
           "Engineered and administered a network system, containing all of server machines, routers, and end devices for a total of 38 company branches.",
           "Monitored and processed the hardware and software purchases/deals for the company.",
@@ -86,14 +87,12 @@
         ]
       },
       {
-        "title": "Senior Node.js Developer",
-        "company": "Alpha-tech",
-        "date": ["Mar 2018", "Jan 2020"],
+        "title": "Full Stack Web Developer",
+        "company": "Sanabel",
+        "date": ["Jan 2019", "Jun 2019"],
         "bullets": [
-          "Developed many web applications depends on nodejs, express, mongodbb, postgresql.",
-          "Built a real-time chat system and a feed system on top of Socket.io.",
-          "Employed JWT-based authentication for the various microservices.",
-          "build a full integration with social media auth with passportjs."
+          "Built and scaled a network control software using Node.js.",
+          "Built an IoT system using the ESP8266 for specific networking purposes."
         ]
       },
       {
@@ -116,10 +115,10 @@
         "date": ["Mar 2017", "Mar 2018"],
         "bullets": [
           "Built the embedded system for a humanoid robot purposed for deep well exploration and salvage missions.",
-          "Built a programmable smart circuit-breager and other advanced electrical protection devices.",
+          "Built a programmable smart circuit-breaker and other advanced electrical protection devices.",
           "Designed and implemented a prototype for a neck-worn air-conditioning system for use in desert environments.",
           "Built a power system and an embedded control PCB (and embedded software) for a portable air-conditioning unit for use in desert environments.",
-          "Built a special purpose CNC router machine for usage in a quick-protyping pipleline."
+          "Built a special purpose CNC router machine for usage in a quick-prototyping pipeline."
         ]
       },
       {
@@ -136,7 +135,7 @@
         "date": ["Jun 2016", "Sep 2016"],
         "bullets": [
           "Was responsible for installment and maintenance of the Programmable Logic Controller system of a large-scale plastic processing factory.",
-          "Designed and built control boards for various properietary factory machines, including a control unit for a flax machine to save process time."
+          "Designed and built control boards for various proprietary factory machines, including a control unit for a flax machine to save process time."
         ]
       }
     ],
@@ -419,6 +418,6 @@
     "Playing Chess"
   ],
   "graduation project": [
-    "<div class=\"subtitle\">Integrated Encryption Scheme Using ECDH and Camellia</div>An implemnentation of a symmetric encryption-decryption system with asymmetric key exchange.<br><br><b>Components:</b><ul><li>Implemented a proof-of-theory Mini AES algorithm.</li><li>Implemented the FIPS-197 compliant AES algorithm with all 3 key lengths (128, 192, 256).</li><li>Implemented the Camellia algorithm.</li><li>Implemented the ECDH algorithm.</li><li>Implemented the Diffie-Hellman algorithm.</li><li>Built a web server to encrypt data, transfer it, then decrypt it.</li><li>Built a CLI tool for advanced users.</li></ul>"
+    "<div class=\"subtitle\">Integrated Encryption Scheme Using ECDH and Camellia</div>An implementation of a symmetric encryption-decryption system with asymmetric key exchange.<br><br><b>Components:</b><ul><li>Implemented a proof-of-theory Mini AES algorithm.</li><li>Implemented the FIPS-197 compliant AES algorithm with all 3 key lengths (128, 192, 256).</li><li>Implemented the Camellia algorithm.</li><li>Implemented the ECDH algorithm.</li><li>Implemented the Diffie-Hellman algorithm.</li><li>Built a web server to encrypt data, transfer it, then decrypt it.</li><li>Built a CLI tool for advanced users.</li></ul>"
   ]
 }
