@@ -23,11 +23,33 @@
     "github": "https://github.com/I-Mostafa",
     "linkedin": "https://www.linkedin.com/in/i-mostafa"
   },
-  "pitch": "Quick learning MERN stack developer with a strong background in software engineering concepts. Once an educator, very keen on giving advice to colleagues and helping others. Appreciate a progressive forward-thinking diverse company culture where I can employ my skills to help others and learn more. Won first place in the 2017 Landmine Free international mine-sweeping competition, designing code for an autonomous mine detecting robot. Able to write scalable well documented code to build solid applications and websites. Well versed in anything from writing code for large-scale cross-platform applications to designing small-scale IoT solutions.",
+  "pitch": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quick learning NodeJs developer with a strong background in software engineering concepts. Once an educator, very keen on giving advice to colleagues and helping others. Appreciate a progressive forward-thinking diverse company culture where I can employ my skills to help others and learn more. Won first place in the 2017 Landmine Free international mine-sweeping competition, designing code for an autonomous mine detecting robot. Able to write scalable well documented code to build solid applications and websites. Well versed in anything from writing code for large-scale cross-platform applications to designing small-scale IoT solutions.",
   "work experience": {
     "web development": [
       {
-        "title": "Senior Node.js Developer (Part time)",
+        "title": "Node.js Developer",
+        "company": "Opinov8",
+        "date": ["Jan 2022", "Present"],
+        "bullets": [
+          "Developed web applications using Node.js, Express.js, NestJs , Postgresql and MongoDB.",
+          "Implement OIDC authentication using Passport.js and Okta.",
+          "Deal with Redshift, Rds database, and AWS.",
+          "Unit tested code using Jest."
+        ]
+      },
+      {
+        "title": "Node.js Developer (Short-term contract)",
+        "company": "Softeq",
+        "date": ["Oct 2021", "Jan 2022"],
+        "bullets": [
+          "Add features to pre-built serverless application using Node.js and Serverless Framework.",
+          "Unit tested code using mocha.",
+          "Deal with DynamoDB, AWS, and mysql.",
+          "Developed simple solutions for complex problems working on bug-fixing and troubleshooting issues in software"
+        ]
+      },
+      {
+        "title": "Senior Node.js Developer (Part-time)",
         "company": "Renile",
         "date": ["Apr 2020", "Present"],
         "bullets": [
@@ -39,7 +61,7 @@
       {
         "title": "MERN Stack Software Engineer",
         "company": "Interwebiz",
-        "date": ["Jan 2020", "Present"],
+        "date": ["Jan 2020", "Jan 2022"],
         "bullets": [
           "Developed a microservice-based web application for freelancing platform.",
           "Built an API in Express.js and MongoDB, and modified a pre-existing React.js front-end to interact with it.",
@@ -50,7 +72,7 @@
       {
         "title": "Senior Node.js Developer",
         "company": "Alpha-tech",
-        "date": ["Mar 2019", "Jan 2022"],
+        "date": ["Mar 2019", "Oct 2021"],
         "bullets": [
           "Developed many web applications depends on nodejs, express, MongoDB, postgresql.",
           "Built a real-time chat system and a feed system on top of Socket.io.",
@@ -191,16 +213,16 @@
     {
       "title": "MATLAB",
       "level": "Good"
-    },
-    {
-      "title": "Assembly",
-      "level": "Good"
     }
   ],
   "frameworks and libraries": [
     true,
     {
       "title": "Express.js",
+      "level": "Very Good"
+    },
+    {
+      "title": "Nest.js",
       "level": "Very Good"
     },
     {
@@ -224,15 +246,7 @@
       "level": "Good"
     },
     {
-      "title": "Angular.js",
-      "level": "Good"
-    },
-    {
       "title": "React.js",
-      "level": "Good"
-    },
-    {
-      "title": "Flask",
       "level": "Good"
     }
   ],
@@ -243,11 +257,15 @@
       "level": "Very Good"
     },
     {
-      "title": "MySQL",
-      "level": "Good"
+      "title": "Postgresql",
+      "level": "Very Good"
     },
     {
-      "title": "Postgresql",
+      "title": "Redis-server",
+      "level": "Very Good"
+    },
+    {
+      "title": "MySQL",
       "level": "Good"
     },
     {
@@ -284,6 +302,14 @@
   ],
   "other technologies and shells": [
     true,
+    {
+      "title": "Postman",
+      "level": "Very Good"
+    },
+    {
+      "title": "Swagger",
+      "level": "Very Good"
+    },
     {
       "title": "HTML and CSS",
       "level": "Very Good"
