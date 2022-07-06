@@ -29,7 +29,7 @@
       {
         "title": "Node.js Developer",
         "company": "Opinov8",
-        "date": ["Jan 2022", "Present"],
+        "date": ["Mar 2021", "Present"],
         "bullets": [
           "Developed web applications using Node.js, Express.js, NestJs , Postgresql and MongoDB.",
           "Implement OIDC authentication using Passport.js and Okta.",
@@ -51,7 +51,7 @@
       {
         "title": "Senior Node.js Developer (Part-time)",
         "company": "Renile",
-        "date": ["Apr 2020", "Present"],
+        "date": ["Jun 2021", "Jul 2022"],
         "bullets": [
           "Developed a microservice-based web application for IOT solutions.",
           "Built an API in Express.js and MongoDB, and MQTT broker.",
@@ -230,6 +230,14 @@
       "level": "Very Good"
     },
     {
+      "title": "Serverless",
+      "level": "Good"
+    },
+    {
+      "title": "AWS",
+      "level": "Good"
+    },
+    {
       "title": "EJS",
       "level": "Very Good"
     },
@@ -302,6 +310,10 @@
   ],
   "other technologies and shells": [
     true,
+    {
+      "title": "Docker",
+      "level": "Good"
+    },
     {
       "title": "Postman",
       "level": "Very Good"
@@ -390,16 +402,6 @@
       "title": "Helwan National Robotics Competition 2017 - 1st Place",
       "date": "Oct 2017",
       "place": "Helwan - Egypt"
-    },
-    {
-      "title": "National Fus'ha Poetry Competition - 2nd Place",
-      "date": "Mar 2017",
-      "place": "Egypt"
-    },
-    {
-      "title": "Prince of Poets Poetry Competition - 1st Place",
-      "date": "Jan 2017",
-      "place": "Qalyubiya - Egypt"
     },
     {
       "title": "Helwan National Robotics Competition 2016 - 1st Place",
