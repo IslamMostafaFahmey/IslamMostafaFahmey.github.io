@@ -9,6 +9,7 @@
     "database systems",
     "languages",
     "other technologies and shells",
+    "hardware",
     "education",
     "soft skills",
     "interests"
@@ -35,7 +36,7 @@
         "company": "Opinov8",
         "date": ["Mar 2021", "Present"],
         "bullets": [
-          "Developed web applications using Node.js, Express.js, NestJs , Postgresql and MongoDB.",
+          "Developed web applications using Node.js, Express.js, NestJs , Postgresql, REST and Graphql and MongoDB.",
           "Implement OIDC authentication using Passport.js and Okta.",
           "Deal with Redshift, Rds database, and AWS.",
           "Unit tested code using Jest."
@@ -81,7 +82,8 @@
           "Developed many web applications depends on nodejs, express, MongoDB, postgresql.",
           "Built a real-time chat system and a feed system on top of Socket.io.",
           "Employed JWT-based authentication for the various microservices.",
-          "build a full integration with social media auth with passportjs."
+          "build a full integration with social media auth with passportjs.",
+          "Build a GraphQl server for Health Care app"
         ]
       },
       {
@@ -234,12 +236,12 @@
       "level": "Very Good"
     },
     {
-      "title": "Serverless",
-      "level": "Good"
+      "title": "GraphQl",
+      "level": "Very Good"
     },
     {
-      "title": "AWS",
-      "level": "Good"
+      "title": "Serverless and AWS",
+      "level": "Very Good"
     },
     {
       "title": "EJS",
@@ -265,7 +267,7 @@
   "database systems": [
     true,
     {
-      "title": "MongoDB and Mongoose",
+      "title": "MongoDB",
       "level": "Very Good"
     },
     {
@@ -278,10 +280,6 @@
     },
     {
       "title": "MySQL",
-      "level": "Good"
-    },
-    {
-      "title": "SQL",
       "level": "Good"
     }
   ],
@@ -319,6 +317,10 @@
       "level": "Good"
     },
     {
+      "title": "SQL",
+      "level": "Very Good"
+    },
+    {
       "title": "Postman",
       "level": "Very Good"
     },
@@ -339,7 +341,7 @@
       "level": "Very Good"
     },
     {
-      "title": "Restful API",
+      "title": "Rest And GraphQl",
       "level": "Very Good"
     },
     {
