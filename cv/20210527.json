@@ -28,13 +28,13 @@
     "github": "https://github.com/I-Mostafa",
     "linkedin": "https://www.linkedin.com/in/i-mostafa"
   },
-  "pitch": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quick learning NodeJs developer with a strong background in software engineering concepts. Once an educator, very keen on giving advice to colleagues and helping others. Appreciate a progressive forward-thinking diverse company culture where I can employ my skills to help others and learn more. Won first place in the 2017 Landmine Free international mine-sweeping competition, designing code for an autonomous mine detecting robot. Able to write scalable well documented code to build solid applications and websites. Well versed in anything from writing code for large-scale cross-platform applications to designing small-scale IoT solutions.",
+  "pitch": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quick learning software developer with a strong background in software engineering concepts. Once an educator, very keen on giving advice to colleagues and helping others. Appreciate a progressive forward-thinking diverse company culture where I can employ my skills to help others and learn more. Won first place in the 2017 Landmine Free international mine-sweeping competition, designing code for an autonomous mine detecting robot. Able to write scalable well documented code to build solid applications and websites. Well versed in anything from writing code for large-scale cross-platform applications to designing small-scale IoT solutions.",
   "work experience": {
     "web development": [
       {
         "title": "Node.js Developer",
         "company": "Opinov8",
-        "date": ["Mar 2021", "Present"],
+        "date": ["Mar 2022", "Present"],
         "bullets": [
           "Developed web applications using Node.js, Express.js, NestJs , Postgresql, REST and Graphql and MongoDB.",
           "Implement OIDC authentication using Passport.js and Okta.",
@@ -45,7 +45,7 @@
       {
         "title": "Node.js Developer (Short-term contract)",
         "company": "Softeq",
-        "date": ["Oct 2021", "Jan 2022"],
+        "date": ["Jan 2022", "Mar 2022"],
         "bullets": [
           "Add features to pre-built serverless application using Node.js and Serverless Framework.",
           "Unit tested code using mocha.",
@@ -66,7 +66,7 @@
       {
         "title": "MERN Stack Software Engineer",
         "company": "Interwebiz",
-        "date": ["Jan 2020", "Jan 2022"],
+        "date": ["Oct 2020", "Jan 2022"],
         "bullets": [
           "Developed a microservice-based web application for freelancing platform.",
           "Built an API in Express.js and MongoDB, and modified a pre-existing React.js front-end to interact with it.",
@@ -77,7 +77,7 @@
       {
         "title": "Senior Node.js Developer",
         "company": "Alpha-tech",
-        "date": ["Mar 2019", "Oct 2021"],
+        "date": ["May 2019", "Oct 2020"],
         "bullets": [
           "Developed many web applications depends on nodejs, express, MongoDB, postgresql.",
           "Built a real-time chat system and a feed system on top of Socket.io.",
@@ -89,7 +89,7 @@
       {
         "title": "Full Stack Web Developer",
         "company": "Saudiyor",
-        "date": ["Jan 2020", "Nov 2020"],
+        "date": ["Jan 2019", "May 2019"],
         "bullets": [
           "Developed an interface for the MetaTrader4 API that integrates with saudiyor.com.",
           "Built a payment processing system, an analytics system for saudiyor.com.",
@@ -134,7 +134,7 @@
       {
         "title": "Embedded Software and Hardware Engineer",
         "company": "Future Sharp Vision",
-        "date": ["Mar 2017", "Mar 2018"],
+        "date": ["Mar 2017", "Jan 2019"],
         "bullets": [
           "Built the embedded system for a humanoid robot purposed for deep well exploration and salvage missions.",
           "Built a programmable smart circuit-breaker and other advanced electrical protection devices.",
@@ -145,16 +145,8 @@
       },
       {
         "title": "Electrical Engineer",
-        "company": "Alwaleed Plastic Manufacturing",
-        "date": ["Sep 2016", "Mar 2017"],
-        "bullets": [
-          "Was responsible for installment and maintenance of the Programmable Logic Controller system of a large-scale plastic processing factory."
-        ]
-      },
-      {
-        "title": "Electrical Engineer",
         "company": "Egyptian Industrial Center",
-        "date": ["Jun 2016", "Sep 2016"],
+        "date": ["Jun 2016", "Mar 2017"],
         "bullets": [
           "Was responsible for installment and maintenance of the Programmable Logic Controller system of a large-scale plastic processing factory.",
           "Designed and built control boards for various proprietary factory machines, including a control unit for a flax machine to save process time."
