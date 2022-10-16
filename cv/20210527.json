@@ -32,7 +32,7 @@
   "work experience": {
     "web development": [
       {
-        "title": "Node.js Developer",
+        "title": "Senior Node.js Developer",
         "company": "Opinov8",
         "date": ["Mar 2022", "Present"],
         "bullets": [
@@ -43,7 +43,7 @@
         ]
       },
       {
-        "title": "Node.js Developer (Short-term contract)",
+        "title": "Senior Node.js Developer (Short-term contract)",
         "company": "Softeq",
         "date": ["Jan 2022", "Mar 2022"],
         "bullets": [
@@ -64,7 +64,7 @@
         ]
       },
       {
-        "title": "MERN Stack Software Engineer",
+        "title": "Senior MERN Stack Software Engineer",
         "company": "Interwebiz",
         "date": ["Oct 2020", "Jan 2022"],
         "bullets": [
@@ -75,7 +75,7 @@
         ]
       },
       {
-        "title": "Senior Node.js Developer",
+        "title": "Node.js Developer",
         "company": "Alpha-tech",
         "date": ["May 2019", "Oct 2020"],
         "bullets": [
